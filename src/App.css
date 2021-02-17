@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +39,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.text-red {
+  color: #ff0000;
+}
+
+.text-green  {
+  color: #215221;
 }
