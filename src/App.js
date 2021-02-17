@@ -9,7 +9,7 @@ function App() {
         <p>I watch movies and shows on <b className="">Netflix</b>.</p>
         <p>I hate <b className="text-green">corianders</b>.</p>
         <p>
-          You can find me on <a target="_blank" href="http://www.google.com">LinkedIn</a>
+          You can find me on <a target="_blank" href="https://www.linkedin.com/in/jack-wang-787526b1/">LinkedIn</a>
         </p>
       </header>
     </div>
